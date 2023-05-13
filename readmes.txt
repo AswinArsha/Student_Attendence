@@ -1,0 +1,2 @@
+Student_Attendence
+a webpage used for checking students attendence created using sveltekit & supabase . has a ogin and register section and fecthes data matching the name from supabase. also has a report option to correct if there is any problem with attendence
